@@ -5,25 +5,34 @@
             "description": "Desenvolvimento de site",
             "type": "income",
             "category": "Venda",
-            "price": "14000",
+            "price": 10,
             "createdAt": "2024-05-07"
         },
 
         {
             "id": 2,
+            "description": "Desenvolvimento de site",
+            "type": "income",
+            "category": "Venda",
+            "price": 80,
+            "createdAt": "2024-05-07"
+        },
+
+        {
+            "id": 3,
             "description": "Hambúrguer",
             "type": "outcome",
             "category": "Alimentação",
-            "price": "50",
+            "price": 20,
             "createdAt": "2024-05-07"
         }, 
 
         {
-            "id": 3,
+            "id": 4,
             "description": "Curso Rocketseat",
             "type": "outcome",
             "category": "Educação",
-            "price": "175",
+            "price": 10,
             "createdAt": "2024-04-07"
         }
     ]
